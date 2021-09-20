@@ -1,6 +1,10 @@
 <img src="https://github.com/KrEdu/KrEdu/blob/823e003c8525d62d77ea2eeff9343cbc9a428d81/Kristians%20Klimovics.png" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
-**I'm a aspiring software developer. Always learning, never stopping.**
-Currently know my way around C#/.NET. Also know a bit of Java and JavaScript
+
+### I'm a aspiring software developer. Always learning, never stopping.
+
+- 🌱 I’m currently learning my way around C# and JavaScript.
+- ⚙️ I know the basics of HTTP and bulding Web API's aswell (Would love to have a reason to learn more).
+- ⚡ Fun fact: Always ready for trip in nature.
 <!--
 **KrEdu/KrEdu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
