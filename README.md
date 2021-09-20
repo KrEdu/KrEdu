@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://github.com/KrEdu/KrEdu/blob/823e003c8525d62d77ea2eeff9343cbc9a428d81/Kristians%20Klimovics.png" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
 
 <!--
 **KrEdu/KrEdu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
