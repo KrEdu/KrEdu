@@ -5,6 +5,6 @@
 
 - 🌱 I’m currently learning my way around C# and JavaScript.
 - ⚙️ I know the basics of HTTP and bulding Web API's aswell (Would love to have a reason to learn more).
-- 📫 [My LinkedIn](www.linkedin.com/in/kristiāns-kļimovičs-207b65220) 
+- 📫 [My LinkedIn](https://www.linkedin.com/in/kredu/) 
 - ⚡ Fun fact: Always ready for a trip in the nature.
 
